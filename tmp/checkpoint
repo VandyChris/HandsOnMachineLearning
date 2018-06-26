@@ -1,0 +1,3 @@
+model_checkpoint_path: "final_linear_model.ckpt"
+all_model_checkpoint_paths: "linear_model.ckpt"
+all_model_checkpoint_paths: "final_linear_model.ckpt"
